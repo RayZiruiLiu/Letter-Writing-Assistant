@@ -1,0 +1,6 @@
+{
+  "name": "Letter Writing Assistant",
+  "description": "An intelligent letter drafting assistant that guides you through customization, voice dictation, detail verification, and tailored letter generation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
